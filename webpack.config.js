@@ -1,5 +1,4 @@
 const path = require("path");
-const { hasUncaughtExceptionCaptureCallback } = require("process");
 const webpack = require("webpack");
 const BundleAnalyzerPlugin = require("webpack-bundle-analyzer").BundleAnalyzerPlugin;
 
@@ -13,6 +12,13 @@ module.exports = {
   output: {
     filename: "[name].bundle.js",
     path: __dirname + "/dist",
+  },
+  devServer: {
+    static: {
+      directory: path.join(__dirname, '/'),
+    },
+    compress: true,
+    port: 9000,
   },
   module: {
     rules: [
