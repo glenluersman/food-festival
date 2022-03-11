@@ -49,7 +49,7 @@ Once you have navigated to the website click on the install icon in the address 
 
 ## <img id="authors" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/authors.png?raw=true" style="height: 40px">
 
-[glenluersman](https://github.com/glenluersman)
+- [glenluersman](https://github.com/glenluersman)
 
 ## <img id="questions" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/questions-alt.png?raw=true" style="height: 40px">
 
