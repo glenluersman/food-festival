@@ -27,19 +27,25 @@
 
 ## <img id="about" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/about.png?raw=true" style="height: 40px">
 
-
+Food Festival is a class module designed to teach Progressive web applications (PWA).
 
 ## <img id="installing" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/installing.png?raw=true" style="height: 40px">
 
-
+1. Clone repository
+2. Run `npm install`
+3. Run `npm run start:dev`
+4. Navigate to localHost:9000
 
 ## <img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/usage.png?raw=true" style="height: 40px">
 
-
+Once you have navigated to the website click on the install icon in the address bar. This will install Food Festival as an app on your desktop. Then you can go offline and test the app for offline capabilities.
 
 ## <img id="built_using" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/built-using.png?raw=true" style="height: 40px">
 
-
+- Node.js
+- HTML
+- CSS
+- Webpack
 
 ## <img id="authors" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/authors.png?raw=true" style="height: 40px">
 
@@ -51,4 +57,8 @@
 
 ## <img id="screenshots" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/screenshots.png?raw=true" style="height: 40px">
 
-<img style="margin: 0 0 15px 0" src="./images/" ></a>
+<img style="margin: 0 0 15px 0" src="./images/food1.PNG" ></a>
+
+<img style="margin: 0 0 15px 0" src="./images/food2.PNG" ></a>
+
+<img style="margin: 0 0 15px 0" src="./images/food3.PNG" ></a>
